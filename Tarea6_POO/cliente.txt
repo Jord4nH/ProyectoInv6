@@ -1,0 +1,4 @@
+nombre: Luis Mendoza
+cedula: 09999999
+estado:True
+-------------------

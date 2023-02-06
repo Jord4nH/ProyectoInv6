@@ -1,0 +1,9 @@
+fecha:2023-02-05
+Factura Nro: 01
+Deuda $:1845.0
+Numero de Cuoatas a Pagar: 2023-02
+Cuota $200
+El AAMM Inicial: 200.0
+Detalle: ND
+Estado: True
+-------------------

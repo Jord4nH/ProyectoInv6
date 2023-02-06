@@ -1,0 +1,5 @@
+Cliente:Luis Mendoza
+Total $: 800
+Fecha_Emision: 2023-02-05
+Estado: True
+-------------------
